@@ -47,3 +47,6 @@ Following images are of the physical sampler that was manufactured for demo purp
 1. Follow the [link](https://github.com/gphoto/libgphoto2/blob/master/INSTALL) to compile the code, that run on PC.   
 2. Arduino code needs to be flashed onto Aruino UNO or any of the similar version. 
 
+## Contributors
+Saket Deshmukh (Saaket.deshmukh@gmail.com)
+Milind Deore (tomdeore@gmail.com)
