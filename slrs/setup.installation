@@ -1,0 +1,37 @@
+If your machine doesn't have gphoto2 installed, please follow all the steps carefully:
+
+# You must have ubuntu machine, ideally 16.04 LTS or above.  
+
+1:  Before you start, I'd suggest updating and upgrading your Pi
+$ apt-get update
+$ apt-get upgrade
+
+2:  Install Required Libraries
+$ sudo apt-get install -y libltdl-dev libusb-dev libexif-dev libpopt-dev
+
+3:  Install automake, autoconf, autopoint, gettext, libtool: These are required when you want to make changed in the Makefiles.  
+$ sudo apt-get install -y automake libtool
+
+4:  Create a directory and clone this repository. 
+$ git clone <this repo. link>
+
+5:  Configure the source
+$ ./configure --prefix=/usr/local
+
+6:  Compile the library (libgphoto2)
+$ make -j 4
+
+7:  Install the library on your system so that you can run the executable.
+$ sudo make install
+
+
+# Verify all the well
+
+1. Post installation, check of the all the installation is up and running. 
+$ gphoto2 --version
+
+make sure USB dev is enabled and the output shouldn't say 'no USB'. This is because, we are going to connect the DSLR to the computer. 
+
+
+
+
