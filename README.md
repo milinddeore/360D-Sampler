@@ -21,11 +21,11 @@ This sampler is meant for image sampling that can be later used for training an 
 
 Following actions and events occur during sampling: 
 
-1. Place the object on the revolving table,
-2. Enter the barcode so that the respective folder will be created with the name as ‘barcode #’
-3. Follow the on screen messages to switch ON the motor and image capturing.
-4. Once 360 degree movement is over, the motor stops.
-5. To capture another object jump to step 1. 
+1. Place the object on the revolving table top,
+2. Enter the barcode so that the respective folder will be created with the name as ‘barcode #’. Else enter manual name. 
+3. Follow the on-screen messages to let table top to start revolving and Cameras will start capturing images. There are total 5 cameras capturing images in tandem. 
+4. Once 360 degree movement is over, the table top stops.
+5. To capture another object jump to step 1.
 
 ## Physical Images Of The Sampler
 
