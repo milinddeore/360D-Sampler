@@ -31,9 +31,9 @@ Following actions and events occur during sampling:
 
 Following images are of the physical sampler that was manufactured for demo purpose. 
 
-![Image 1](https://www.dropbox.com/s/0mkredcyn5mxwkf/sampler-design.png)
-![Image 2](https://www.dropbox.com/s/04svj0xfnbo4qdk/IMG_9475.JPG)
-![Image 3](https://www.dropbox.com/s/tttx853wdv75rcc/IMG_9476.JPG)
+![Image 1](https://www.dropbox.com/s/0mkredcyn5mxwkf/sampler-design.png?raw=true "Design")
+![Image 2](https://www.dropbox.com/s/04svj0xfnbo4qdk/IMG_9475.JPG?raw=true "Img-1")
+![Image 3](https://www.dropbox.com/s/tttx853wdv75rcc/IMG_9476.JPG?raw=true "Img-2")
 
 
 ## Software
